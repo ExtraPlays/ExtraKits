@@ -1,0 +1,21 @@
+# Portugues
+# Idiomas Disponiveis: 'pt-br'; 'en'
+# =====================
+# English
+# Available Languages: 'pt-br'; 'en'
+language: 'pt-br'
+
+# Portugues
+# Esvaziar o iventario para pegar o kit?
+empty_inventory: false
+
+# Updates:
+verify_updates: true
+
+mysql:
+  use: false:
+  host: localhost
+  user: root
+  pass: ''
+
+# More options will be added after.

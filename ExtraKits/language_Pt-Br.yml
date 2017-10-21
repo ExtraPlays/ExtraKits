@@ -1,0 +1,11 @@
+Kits:
+  Prefixo: '&8[&bExtra&3Kits&8] '
+  Ja_Existe: '&eO Kit &c{kit} &eJa Existe'
+  Criado: '&eKit &6{kit} &eCriado com Sucesso'
+  Nao_Existe: '&cKit &6{kit} &cNao Existe'
+  Pegou: '&eVoce pegou o Kit &6{kit}'
+  Esvazie_O_Inventario: '&cEsvazie o Inventario para Pegar o Kit &6{kit}'
+  Acabou_Delay: '&eAcabou o Delay'
+  Em_Delay: '&cNão acabou o delay, falta &6{delay}'
+  Sem_Permissao: '&cVoce nao tem Permissao para usar o kit &6{kit}'
+  Apagou: '&eVoce apagou o kit &6{kit}'

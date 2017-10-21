@@ -1,0 +1,11 @@
+Kits:
+  Prefix: '&8[&bExtra&3Kits&8] '
+  Already_exists: '&eThe kit &c{kit} &eAlready exists'
+  Kit_Created: '&eThe kit &6{kit} &eWas successfully created'
+  Kit_Not_Exist: '&cThe Kit &6{kit} &cNot Exists'
+  Kit_Received: '&eYou got the kit &6{kit}'
+  Empty_Your_Inventory: '&cEmpty your inventory to get kit &6{kit}'
+  Delay_Finished: '&eThe delay is over'
+  Delay_Not_Finished: '&cCooldown not finished, Wait &6{delay}'
+  Without_permission: '&cYou dont have permission to get the kit &6{kit}'
+  Kit_Deleted: '&eYou deleted the kit &6{kit}'

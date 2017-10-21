@@ -1,0 +1,14 @@
+name: ExtraKits
+description: Plugin de Kits
+version: 1.7
+main: me.ep.extrakits.ExtraKits
+commands:
+  kit:
+    usage: /<command> <kit> - Pega um Kit
+    aliases: [kits]
+  criarkit:
+    aliases: [createkit]
+    usage: /<command> <nome> - Cria um Kit
+  apagarkit:
+    aliases: [deletekit]
+    usage: /<command> <nome> - Apaga um Kit
