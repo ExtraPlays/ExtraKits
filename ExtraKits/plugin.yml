@@ -2,6 +2,7 @@ name: ExtraKits
 description: Plugin de Kits
 version: 1.7
 main: me.ep.extrakits.ExtraKits
+authors: [ExtraPlays]
 commands:
   kit:
     usage: /<command> <kit> - Pega um Kit
